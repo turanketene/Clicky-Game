@@ -48,7 +48,7 @@ class App extends Component {
         <h1 className = "App-title">Welcome To The Clicky Game Made By React!</h1>
       </header>
       <h3>
-        <strong className= "instruction">Click on a different every time to earn points, game is over when you click on the same image twice!</strong>
+        <strong className= "instruction">Click on a different image every time to earn points, game is over when you click on the same image twice!</strong>
         <p className = "score"><strong>Score: {this.state.score} | TopScore: {this.state.topScore}</strong></p>
         <p className = "message"><strong>{this.state.message}</strong></p>
       </h3>
