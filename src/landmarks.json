@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Taj Mahal",
+        "image": "https://www.roadaffair.com/wp-content/uploads/2017/12/taj-mahal-india-shutterstock_180918317-1024x683.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Great Wall of China",
+        "image": "https://www.listchallenges.com/f/lists/6c536c33-489b-4bee-b259-00074fa53a0d.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Stonehenge",
+        "image": "http://www.hollandhavenschool.co.uk/uploads/5/6/3/5/56353853/stonehenge_2_orig.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Eiffel Tower",
+        "image": "https://www.kids-world-travel-guide.com/images/xparis_eiffeltower_ssk500.jpeg.pagespeed.ic.03Zne2dW2F.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Dome of The Rock",
+        "image": "https://media.routard.com/image/64/2/pt93881.1302642.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Roman Collosseum",
+        "image": "https://www.worldatlas.com/r/w728-h425-c728x425/upload/f5/b8/ed/shutterstock-1191976078.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Egyptian Pyramids",
+        "image": "https://www.readersdigest.ca/wp-content/uploads/sites/14/2016/05/pyramid-1200x900.jpg"
+      },
+      {
+        "id": 8,
+        "name": "St. Basils Cathedral",
+        "image": "https://traveluto.com/wp-content/uploads/2017/06/St_Basils_Cathedral.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Hagia Sophia",
+        "image": "https://www.hagiasophia.com/upload/1553256075_262-900x604.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Chichen Itza",
+        "image": "https://www.wondermondo.com/wp-content/uploads/2017/09/ChichenItzaCastillo.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Big Ben",
+        "image": "https://www.publicdomainpictures.net/pictures/240000/nahled/big-ben-london-1509999283AeG.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Mt. Rushmore",
+        "image": "https://loveincorporated.blob.core.windows.net/contentimages/gallery/33257abb-9ff0-4ea1-a629-4666ac598156-mount-rushmore-south-dakota.jpg"
+      }
+]
